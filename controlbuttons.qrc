@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>E:/work_hrd/icons_for_player/audio_volume.png</file>
+        <file>E:/work_hrd/icons_for_player/audio-off.png</file>
+        <file>E:/work_hrd/icons_for_player/first-track.png</file>
+        <file>E:/work_hrd/icons_for_player/forward.png</file>
+        <file>E:/work_hrd/icons_for_player/last-track.png</file>
+        <file>E:/work_hrd/icons_for_player/pause.png</file>
+        <file>E:/work_hrd/icons_for_player/play.png</file>
+        <file>E:/work_hrd/icons_for_player/replay.png</file>
+        <file>E:/work_hrd/icons_for_player/rewind.png</file>
+        <file>E:/work_hrd/icons_for_player/shuffle.png</file>
+        <file>E:/work_hrd/icons_for_player/stop.png</file>
+    </qresource>
+</RCC>
